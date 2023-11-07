@@ -1,11 +1,11 @@
-# Genshin CodeEnter
-Genshin CodeEnter - это расширение для браузера Firefox, которое позволяет вам автоматически вводить коды для игры Genshin Impact и получать награды.
+# GenshinCodeEnter
+Genshin CodeEnter is a Firefox browser extension that allows you to automatically enter codes for the Genshin Impact game and receive rewards.
 
-# Как это работает?
-Установите [расширение](https://addons.mozilla.org/firefox/addon/genshin-codeenter/) из магазина дополнений Firefox. 
+# How it works?
+Install [extension](https://addons.mozilla.org/firefox/addon/genshin-codeenter/) from the Firefox add-on store.
 
-Откройте страницу [с вводом промокодов)](https://genshin.hoyoverse.com/gift) и войдите в свой аккаунт. 
+Open the page [with entering promotional codes)](https://genshin.hoyoverse.com/gift) and log in to your account.
 
-Нажмите на иконку расширения, введите промокод, также можете поделиться ею с друзьями, вам откроет во всплывающем окне сайт с промоком на котором вы сможете выбрать регион аккаунта и ввести промокод за одну кнопку.
+Click on the extension icon, enter the promotional code, you can also share it with friends, a site with a promotional offer will open in a pop-up window where you can select the account region and enter the promotional code in one button.
 
-Проверьте свою почту в игре и заберите свои награды!
+Check your in-game mail and claim your rewards!
