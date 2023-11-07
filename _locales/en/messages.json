@@ -1,0 +1,26 @@
+{
+  "extensionDescription": {
+    "message": "Enter Genshin Impact promo codes quickly"
+  },
+  "enterCode": {
+    "message": "Enter code"
+  },
+  "submit": {
+    "message": "Enter"
+  },
+  "share": {
+    "message": "Share"
+  },
+  "buttonColor": {
+    "message": "Button Color"
+  },
+  "buttonTextColor": {
+    "message": "Button Text Color"
+  },
+  "save": {
+    "message": "Save"
+  },
+  "reset": {
+    "message": "Reset"
+  }
+}

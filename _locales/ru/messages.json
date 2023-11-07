@@ -1,0 +1,26 @@
+{
+  "extensionDescription": {
+    "message": "Быстро вводите промокоды Genshin Impact"
+  },
+  "enterCode": {
+    "message": "Введите код"
+  },
+  "submit": {
+    "message": "Ввести"
+  },
+  "share": {
+    "message": "Поделиться"
+  },
+  "buttonColor": {
+    "message": "Цвет кнопки"
+  },
+  "buttonTextColor": {
+    "message": "Цвет текста кнопки"
+  },
+  "save": {
+    "message": "Сохранить"
+  },
+  "reset": {
+    "message": "Сбросить"
+  }
+}
