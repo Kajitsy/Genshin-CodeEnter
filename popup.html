@@ -12,8 +12,9 @@
   body {
     font-family: Arial, sans-serif;
     padding: 10px;
-    background-image: url('background.jpg');
+    background-image: url('background.png');
     color: white;
+    overflow: hidden;
   }
   #input-container {
     display: flex;
@@ -43,6 +44,11 @@
     margin-top: 10px;
     transition: transform 0.3s ease;
   }
+    button {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
   #submit:hover, #share:hover {
     transform: scale(1.1);
   }
@@ -59,7 +65,7 @@
     <button id="submit">__MSG_submit__</button>
     <button id="share">__MSG_share__</button>
   </div>
-  <iframe id="frame" src="" width="756" height="711" style="display: none;"></iframe>
+  <iframe id="frame" src="" width="756" height="550" style="display: none;"></iframe>
   <script src="popup.js"></script>
 </body>
 </html>

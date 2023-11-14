@@ -10,17 +10,5 @@
   },
   "share": {
     "message": "Share"
-  },
-  "buttonColor": {
-    "message": "Button Color"
-  },
-  "buttonTextColor": {
-    "message": "Button Text Color"
-  },
-  "save": {
-    "message": "Save"
-  },
-  "reset": {
-    "message": "Reset"
   }
 }

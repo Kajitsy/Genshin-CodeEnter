@@ -10,17 +10,5 @@
   },
   "share": {
     "message": "Поделиться"
-  },
-  "buttonColor": {
-    "message": "Цвет кнопки"
-  },
-  "buttonTextColor": {
-    "message": "Цвет текста кнопки"
-  },
-  "save": {
-    "message": "Сохранить"
-  },
-  "reset": {
-    "message": "Сбросить"
   }
 }
