@@ -1,4 +1,4 @@
-# GenshinCodeEnter
+# Genshin CodeEnter
 Genshin CodeEnter is a Firefox browser extension that allows you to automatically enter codes for the Genshin Impact game and receive rewards.
 
 # How it works?
